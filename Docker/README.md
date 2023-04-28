@@ -54,14 +54,29 @@
 <img width="774" alt="Screenshot 2023-04-17 at 19 27 21" src="https://user-images.githubusercontent.com/102456153/232968305-f5e84ae9-b8c5-4cfe-98f7-7892a653dc85.png">
 <img width="774" alt="Screenshot 2023-04-17 at 19 25 10" src="https://user-images.githubusercontent.com/102456153/232968313-76e3ce26-3527-4ea7-90b2-5cfcae0c7df0.png">
 
+5. Selanjutnya membuat docker compose menggunakan yaml file.
+<img width="573" alt="Screenshot 2023-04-28 at 20 34 55" src="https://user-images.githubusercontent.com/102456153/235189475-4f14e9eb-5069-482a-a297-2a844312fb96.png">
+<img width="574" alt="Screenshot 2023-04-28 at 20 35 04" src="https://user-images.githubusercontent.com/102456153/235189836-087c4901-9f73-419e-b1e9-583365a386d6.png">
 
 
-5.
+6. Buat juga docker compose untuk database mysql.
+<img width="573" alt="Screenshot 2023-04-28 at 20 35 22" src="https://user-images.githubusercontent.com/102456153/235189487-38728fd4-a1bf-47a2-84f9-6415662a34bc.png">
 
-6.
+
+7. Kemudian build docker compose dan database compose.
+<img width="731" alt="Screenshot 2023-04-28 at 20 55 23" src="https://user-images.githubusercontent.com/102456153/235189562-09b7c2fe-85f0-4eac-8868-1ce7f1392230.png">
+<img width="571" alt="Screenshot 2023-04-28 at 22 20 55" src="https://user-images.githubusercontent.com/102456153/235189567-40adcaa4-545f-4301-b5e7-73260da35d85.png">
+
+8. Pastikan jika aplikasi wayshub telah berhasil di build dan sudah running.
+<img width="1276" alt="Screenshot 2023-04-28 at 22 21 34" src="https://user-images.githubusercontent.com/102456153/235189587-bef6b3cf-6717-47ff-92b5-24cfdd75ab9e.png">
 
 
+9. Aplikasi telah berhasil berjalan di browser.
+<img width="1348" alt="Screenshot 2023-04-28 at 22 23 17" src="https://user-images.githubusercontent.com/102456153/235189604-fb3812e8-4fbe-48b9-b0a0-450725760d8c.png">
+<img width="1349" alt="Screenshot 2023-04-28 at 22 23 09" src="https://user-images.githubusercontent.com/102456153/235189612-a5e9bcf9-28bc-40e1-a99c-c84a54a77025.png">
 
 ## 3. Reverse Proxy dan SSL Certificate
-
+- Berikut reverse proxy dan serta certbot sertifikasi pada aplikasi wayshub-frontend dan wayshub-backend di server **GATEWAY** 
+<img width="571" alt="Screenshot 2023-04-28 at 22 30 38" src="https://user-images.githubusercontent.com/102456153/235191029-5070ba3b-7945-4542-b3d0-fee56fc88a6d.png">
+<img width="571" alt="Screenshot 2023-04-28 at 22 30 44" src="https://user-images.githubusercontent.com/102456153/235191037-8632d78a-fe71-4c54-82e9-8d2267600c05.png">
 
