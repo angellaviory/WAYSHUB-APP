@@ -24,7 +24,7 @@
 <img width="1319" alt="Screenshot 2023-04-28 at 22 57 15" src="https://user-images.githubusercontent.com/102456153/235200208-5104b515-2767-49ec-bc41-d0fec35d47db.png">
 <img width="1315" alt="Screenshot 2023-04-28 at 22 57 26" src="https://user-images.githubusercontent.com/102456153/235200221-c494865b-c6cd-4d0b-83f3-01d9a8d6130d.png">
 
-- Masukkan ssh url github, branch dan dll. Hal ini dikarenakan setiap mengalami perubahan, penambahan pada Jenkinsfile harus di *add* dan *commit* ke akun github yang sudah di setting di server.
+- Masukkan ssh url github, branch dan dll. Hal ini dikarenakan setiap mengalami perubahan, penambahan pada Jenkinsfile harus di *add*, *commit* dan *push* ke akun github yang sudah di setting di server.
 <img width="1320" alt="Screenshot 2023-04-28 at 22 58 08" src="https://user-images.githubusercontent.com/102456153/235200267-36a399db-76a0-47f4-9ca6-62e8d3d62a9c.png">
 <img width="1317" alt="Screenshot 2023-04-28 at 22 58 14" src="https://user-images.githubusercontent.com/102456153/235200272-e239fa40-b7de-441c-832d-34add095f1d5.png">
 <img width="1512" alt="Screenshot 2023-04-28 at 22 58 19" src="https://user-images.githubusercontent.com/102456153/235200278-6411f097-73e7-4954-aeb8-fb0430839647.png">
