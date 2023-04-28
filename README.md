@@ -1,1 +1,2 @@
-# WAYSHUB-App
+# Docker
+# CI/CD: Jenkins
