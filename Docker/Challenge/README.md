@@ -30,6 +30,16 @@ sudo apt-get install docker-ce docker-ce-cl1 contalnerd.10 docker-bulldx-plugin 
 
 ## 2. Dockerized Image Aplikasi wayshub-frontend Sekecil Mungkin
 
+- Image docker original
+<img width="694" alt="Screenshot 2023-04-30 at 23 30 09" src="https://user-images.githubusercontent.com/102456153/235365799-38184b25-f740-476e-b5c7-23303d9bb9ce.png">
+
+- Image docker multi-stage
+
+
+- Image docker alpine
+<img width="807" alt="Screenshot 2023-04-30 at 22 43 37" src="https://user-images.githubusercontent.com/102456153/235365796-f842c4d5-3605-428a-92d4-58b118ae10f9.png">
+
+
 
 ## 3. Jalankan NGINX On Top Docker
 - Pertama membuat file docker compose nginx
