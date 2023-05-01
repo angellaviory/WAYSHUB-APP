@@ -2,7 +2,7 @@
 - Pertama membuat repository private di Github
 <img width="1348" alt="Screenshot 2023-04-28 at 00 04 28" src="https://user-images.githubusercontent.com/102456153/235464293-689c6256-4693-4b54-9109-936d75b99825.png">
 
-- Kemudian ketik perintah *git init* untuk synchronize github dengan server 
+- Kemudian ketik perintah *git init* untuk synchronize github dengan lokal/server 
 <img width="740" alt="Screenshot 2023-04-28 at 00 04 55" src="https://user-images.githubusercontent.com/102456153/235463919-4751df91-68cd-4d6d-823f-56717060fb54.png">
 
 - Lalu *git add* dan *git commit* aplikasi wayshub-frontend
