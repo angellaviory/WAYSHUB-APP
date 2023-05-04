@@ -75,6 +75,20 @@
 <img width="1348" alt="Screenshot 2023-04-28 at 22 23 17" src="https://user-images.githubusercontent.com/102456153/235189604-fb3812e8-4fbe-48b9-b0a0-450725760d8c.png">
 <img width="1349" alt="Screenshot 2023-04-28 at 22 23 09" src="https://user-images.githubusercontent.com/102456153/235189612-a5e9bcf9-28bc-40e1-a99c-c84a54a77025.png">
 
+## Melakukan **push** docker image ke akun Docker Hub 
+1. Lakukan login di appserver
+<img width="769" alt="Screenshot 2023-04-17 at 03 34 04" src="https://user-images.githubusercontent.com/102456153/232341181-35385a7a-5a5e-4942-befc-134536cdac5f.png">
+
+2. Buat image baru yang nantinya akan di push ke akun Docker Hub dengan *tag*
+<img width="771" alt="Screenshot 2023-04-17 at 03 35 05" src="https://user-images.githubusercontent.com/102456153/232341186-e341c0ba-22f1-4d02-a99d-1e050bb056f4.png">
+
+3. Selanjutnya lakukan push image yang telah dibuat
+<img width="768" alt="Screenshot 2023-04-17 at 03 37 06" src="https://user-images.githubusercontent.com/102456153/232341190-38bdf178-e8fe-4f7a-9162-c5ca5a8eba25.png">
+
+4. Coba cek di akun Docker Hub. "angellaviory/wayshub-fe:latest" telah berhasil di push.
+<img width="1348" alt="Screenshot 2023-04-17 at 03 37 26" src="https://user-images.githubusercontent.com/102456153/232341194-f6f4983c-bb0f-4937-92c2-f1d730567484.png">
+
+
 ## 3. Reverse Proxy dan SSL Certificate
 - Berikut reverse proxy dan serta certbot sertifikasi pada aplikasi wayshub-frontend dan wayshub-backend di server **GATEWAY** 
 <img width="571" alt="Screenshot 2023-04-28 at 22 30 38" src="https://user-images.githubusercontent.com/102456153/235191029-5070ba3b-7945-4542-b3d0-fee56fc88a6d.png">
